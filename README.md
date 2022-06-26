@@ -1,5 +1,5 @@
 # INFORME TAREA 4
-## CAPITULO 3-4
+## CAPITULO 7-8
 ## 1.- OBJETIVOS
 
 
@@ -7,16 +7,16 @@
 
 
 ## 2.- MARCO TEORICO
-### 2.1- Capitulo 5
-### 2.2- Capitulo 6
+### 2.1- Capitulo 7
+### 2.2- Capitulo 8
 
 
 ## 3.- EXPLICACION Y RESOLUCION DE EJERCICIOS
 
-### 3.1- EJERCICIOS CAPITULO 5.
+### 3.1- EJERCICIOS CAPITULO 7.
 
 
-### 3.2 EJERCICIOS CAPITULO 6.
+### 3.2 EJERCICIOS CAPITULO 8.
 
 
 
