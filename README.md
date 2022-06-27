@@ -1,7 +1,9 @@
 # INFORME TAREA 4
 ## CAPITULO 7-8
 ## 1.- OBJETIVOS
+### 1.1- Objetivo general.
 
+### 1.2- Objetivos epecificos.
 
 
 
