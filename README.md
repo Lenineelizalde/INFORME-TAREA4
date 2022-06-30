@@ -73,6 +73,59 @@ C)
 
 ![image](https://user-images.githubusercontent.com/105298935/176603853-7a26d6c3-0a80-4d1b-bdf7-89410ecbf16f.png)
 
+![image](https://user-images.githubusercontent.com/105298935/176677645-3b8b6342-b8a1-46ec-a1b9-77039c9bf8e8.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176678234-0ed36578-1b0d-4f5c-9895-32f1fa74ee8f.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176680252-acb5ee38-628c-46ee-a716-cca493e8d06e.png)
+
+
+14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
+
+![image](https://user-images.githubusercontent.com/105298935/176680386-6c25ce88-7a3d-4fa6-ba1a-0a1f364c473d.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176681507-7d36f24b-a614-45f9-ba57-85113a570cad.png)
+
+16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
+
+![image](https://user-images.githubusercontent.com/105298935/176681592-b76e3060-b170-4a9f-befe-ac5f5881d139.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176682899-d069c017-5bf6-4df8-92ac-931644fc2acd.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176683413-a15ab019-c1e7-4695-8921-ca465ef8ecd6.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176683786-aff36c30-4f82-405b-a76f-519d48c02830.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176683843-76bb812d-06d4-43b2-b3fe-92c2d58edea3.png)
+
+18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.
+
+![image](https://user-images.githubusercontent.com/105298935/176685199-a5468f61-0d18-4e36-80fd-94c987e93949.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176686142-ab0fb7ef-a898-4b75-a77e-e8b7e572fb85.png)
+
+20. Determine el voltaje, VAB, en la figura 7-69.
+
+![image](https://user-images.githubusercontent.com/105298935/176686263-0ae7a5f5-6789-4e5e-988b-6d3a304120e3.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176702485-6ba8b611-fe3e-44cd-b64f-e5a7bb097b23.png)
+
+22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC, RAD, RAE, RAF, y RAG).
+
+![image](https://user-images.githubusercontent.com/105298935/176702652-b885b2ca-5331-4734-a130-58e0e03a1017.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176705365-f46cdd80-a4d4-4ac7-8abb-154b50e4bf05.png)
+
+24. Determine el valor de cada resistor mostrado en la figura 7-73.
+
+![image](https://user-images.githubusercontent.com/105298935/176705778-b7ea255e-e869-4ce5-a502-4e5dba0ab6dd.png)
+
+
+
+
+
+
+
 
 
 
