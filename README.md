@@ -10,8 +10,12 @@
 
 ## 2.- MARCO TEORICO
 ### 2.1- Capitulo 7
+
+![image](https://user-images.githubusercontent.com/105298935/176585876-e803aae6-6767-43a8-9ede-d9c5a26c14f4.png)
+
 ### 2.2- Capitulo 8
 
+![image](https://user-images.githubusercontent.com/105298935/176590801-0ebd48e2-e48b-4c2c-8531-598415cd3bf7.png)
 
 ## 3.- EXPLICACION Y RESOLUCION DE EJERCICIOS
 
