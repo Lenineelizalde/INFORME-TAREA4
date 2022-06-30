@@ -157,6 +157,10 @@ C)
 
 ![image](https://user-images.githubusercontent.com/105298935/176725117-6031a8a8-1c9e-43d9-b013-b1007f9e4531.png)
 
+![image](https://user-images.githubusercontent.com/105298935/176728271-4d31a87c-4f51-46ec-861e-b1e754a94c8b.png)
+
+40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-78.
+
 
 
 
