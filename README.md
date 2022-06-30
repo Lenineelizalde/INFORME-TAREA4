@@ -234,6 +234,21 @@ En el caso que R2 se habra tendremos el voltaje VA= 15V, el voltaje VB=0V y el v
 
 ![image](https://user-images.githubusercontent.com/105298935/176741904-9a46a3b9-0240-4b2d-a084-72feb5e43bdd.png)
 
+8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/105298935/176779007-910b05c5-a2f4-43f7-b3df-190540492785.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176780550-989b0c88-f364-4c61-8f99-523ddbf254d7.png)
+
+10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
+
+![image](https://user-images.githubusercontent.com/105298935/176780654-f330d641-a915-403a-99c3-af8169f2d6df.png)
+
+
+
+
+
+
 
 
 
