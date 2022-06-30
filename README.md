@@ -161,6 +161,33 @@ C)
 
 40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-78.
 
+![image](https://user-images.githubusercontent.com/105298935/176728972-432f4edf-4a2d-4d0a-a407-820f4a9969b3.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176729589-eb9a32b0-780f-44ed-a23f-445528b46047.png)
+
+42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
+
+![image](https://user-images.githubusercontent.com/105298935/176729706-4da6c53b-c25d-423c-8dba-c19f08383123.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176731492-46908267-bd79-4576-93c8-707f08955afb.png)
+
+44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones:
+
+![image](https://user-images.githubusercontent.com/105298935/176731693-10143429-4640-4a2e-9c20-778e0113a81c.png)
+
+(a) Interruptor SW2 conectado a+12 V y los demás conectados a tierra
+
+![image](https://user-images.githubusercontent.com/105298935/176732127-49ffacef-bc90-42c8-9b63-467d6b4caf3b.png)
+
+(b) Interruptor SW1 conectado a +12 V y los demás conectados a tierra
+
+![image](https://user-images.githubusercontent.com/105298935/176732312-b95fdcdd-9de1-4a83-8ce9-c4384ed3cde0.png)
+
+
+46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV = 18 kÆ y R2/R4 = 0.02. ¿Cuál es RX?
+
+![image](https://user-images.githubusercontent.com/105298935/176732870-933bfa2c-4277-4f28-8b92-4b71e7948574.png)
+
 
 
 
