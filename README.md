@@ -120,6 +120,43 @@ C)
 
 ![image](https://user-images.githubusercontent.com/105298935/176705778-b7ea255e-e869-4ce5-a502-4e5dba0ab6dd.png)
 
+![image](https://user-images.githubusercontent.com/105298935/176709714-1f8e3716-1bbf-4d57-a2d0-7040e311d741.png)
+
+
+26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kÆ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kÆ a la más alta de las salidas, ¿cuál será su valor con carga?
+
+![image](https://user-images.githubusercontent.com/105298935/176713419-b3490957-490c-45cb-b8c7-0fb700594a3e.png)
+
+28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kÆ conectada de A a B, ¿cuál es el voltaje de salida?
+
+![image](https://user-images.githubusercontent.com/105298935/176711926-41d63ea6-a811-4f10-aec3-1b6fd884bda2.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176715546-ebff043d-0ada-4414-bf8e-6d91ae011fdf.png)
+
+30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kÆ, ¿cuál es la corriente extraída?
+
+![image](https://user-images.githubusercontent.com/105298935/176715644-0404137f-082e-486c-9995-4e4e462b0c33.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176716932-49b5bf0f-cdf4-485e-93a3-1895916b8660.png)
+
+32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1, V2 y V3) para cada posición del interruptor.
+
+![image](https://user-images.githubusercontent.com/105298935/176717064-7b46657d-2d68-4fa8-afdb-fbc9673f1131.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176719226-f2764f7e-7b81-4a62-9206-ab10039fc613.png)
+
+34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los extremos de una carga de 1.0 kÆ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no debe exceder de 100 mA.
+
+![image](https://user-images.githubusercontent.com/105298935/176722630-56a7b98d-422b-49a1-b88b-7ce8121d3ffe.png)
+
+36. Determine la resistencia interna de un voltímetro de 20,000 Æ/V en cada uno de los siguientes ajustes de intervalo.
+
+![image](https://user-images.githubusercontent.com/105298935/176723963-12938b04-66aa-466c-b922-f4eab3e85e39.png)
+
+38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b).
+
+![image](https://user-images.githubusercontent.com/105298935/176725117-6031a8a8-1c9e-43d9-b013-b1007f9e4531.png)
+
 
 
 
