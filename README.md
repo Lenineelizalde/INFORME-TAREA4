@@ -188,60 +188,52 @@ C)
 
 ![image](https://user-images.githubusercontent.com/105298935/176732870-933bfa2c-4277-4f28-8b92-4b71e7948574.png)
 
+48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60oC. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.
 
+![image](https://user-images.githubusercontent.com/105298935/176734735-da004bbc-045c-4d61-9191-0d2ce9fba380.png)
 
+![image](https://user-images.githubusercontent.com/105298935/176734557-7ecdc628-f339-4b32-a560-3d8037b2a08d.png)
 
+![image](https://user-images.githubusercontent.com/105298935/176735331-a0eab7d0-3a66-465f-ba0a-3d3a664c0b1b.png)
 
+50. ¿Son correctas las lecturas del medidor mostrado en la figura 7-85?
 
+![image](https://user-images.githubusercontent.com/105298935/176735558-acc75337-ebf8-4487-8be3-18794e523b21.png)
 
+![image](https://user-images.githubusercontent.com/105298935/176736909-5fe8feaa-deea-49c1-8a53-d7fe6541d14d.png)
 
+52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
 
+![image](https://user-images.githubusercontent.com/105298935/176737121-80d04716-57c1-4413-b5ab-3d595661e277.png)
 
+No existe fallas en este circuito por lo tanto las lecturas son correctas.
 
+54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
 
+![image](https://user-images.githubusercontent.com/105298935/176737686-982ce426-386a-499a-872f-e00047abf1d2.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+En el caso que R2 se habra tendremos el voltaje VA= 15V, el voltaje VB=0V y el voltaje VC=0V
 
 
 
 ### 3.2 EJERCICIOS CAPITULO 8.
 
+2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
 
+![image](https://user-images.githubusercontent.com/105298935/176738355-ae23ec13-8f54-4f32-9de5-ce2e99c45b42.png)
 
+![image](https://user-images.githubusercontent.com/105298935/176739154-52b9d1aa-88b1-447b-84fe-2d12da175149.png)
 
+4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
 
-## 4.- VIDEO.
+![image](https://user-images.githubusercontent.com/105298935/176740300-c20e4e4a-8009-48e3-94b5-6fe313dc1397.png)
+
+6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
+
+![image](https://user-images.githubusercontent.com/105298935/176740627-19bac8b8-a7e8-4f5d-8a01-9dc104487e86.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176741904-9a46a3b9-0240-4b2d-a084-72feb5e43bdd.png)
+
 
 
 ## 5.- CONCLUSIONES.
