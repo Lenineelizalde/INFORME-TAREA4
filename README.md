@@ -55,6 +55,26 @@ C)
 
 6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.
 
+![image](https://user-images.githubusercontent.com/105298935/176598581-96376a10-c0dc-42bb-8d96-e78ae95f758a.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176600561-65d1e8fd-cdc8-4b95-ae16-db80911f2cb5.png)
+
+8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Ω. Uno de los resistores es de 1.0 kΩ. ¿Cuál es el otro resistor?
+
+![image](https://user-images.githubusercontent.com/105298935/176601803-ffb11d83-040c-4660-866c-0960561d4b95.png)
+
+10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
+
+![image](https://user-images.githubusercontent.com/105298935/176601947-78964a13-7f48-4bd7-9fa4-820bde68fc98.png)
+
+![image](https://user-images.githubusercontent.com/105298935/176603719-ef7f4dd8-7110-4618-a583-ee2c5eda2e06.png)
+
+12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje.
+
+![image](https://user-images.githubusercontent.com/105298935/176603853-7a26d6c3-0a80-4d1b-bdf7-89410ecbf16f.png)
+
+
+
 
 
 
