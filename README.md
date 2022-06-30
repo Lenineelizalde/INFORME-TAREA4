@@ -25,6 +25,74 @@ Conocer los circuitos en serie - paralelo y cada uno de los teoremas de circuito
 
 ### 3.1- EJERCICIOS CAPITULO 7.
 
+2. Visualice y trace los siguientes circuitos en serie-paralelo:
+
+(a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
+
+![image](https://user-images.githubusercontent.com/105298935/176595523-5bd26d08-2a43-464f-a6a0-d113f4847ae1.png)
+
+(b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
+
+![image](https://user-images.githubusercontent.com/105298935/176596186-b7822f51-346b-40d5-9a80-71c12e421fff.png)
+
+4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
+
+![image](https://user-images.githubusercontent.com/105298935/176596311-b5ff8c19-5866-4531-a1c5-439b54a0fbfa.png)
+
+A) 
+- En este sircuito R2 esta en serie con R3 y R4
+- R3 y R4 estan en paralelo entre si
+- R1 esta en serie con R2 y R3
+- R1 esta en paralelo con R3
+
+B) En este circuito todos las resistencias se encuentran en paralelo.
+
+C) 
+- Estan en serie R1 y R2
+- R3, R4, R5 y R8 estan en paralelo 
+- R6 y R7 estan en serie
+
+
+6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 3.2 EJERCICIOS CAPITULO 8.
 
