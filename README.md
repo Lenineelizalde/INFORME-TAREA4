@@ -236,6 +236,8 @@ En el caso que R2 se habra tendremos el voltaje VA= 15V, el voltaje VB=0V y el v
 
 
 
+
+
 ## 5.- CONCLUSIONES.
 
 - Para resolver los circuitos mixtos primeramente se resolvera todos los elementos en serie y en paralelo por separado
